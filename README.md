@@ -1,2 +1,2 @@
 # spam-classifier
-spam classifier using Naive Bayes algorithm.
+recognizing spam short message using Naive Bayes algorithm.
